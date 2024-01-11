@@ -5,7 +5,42 @@ This script allows you to extract text data from specific pages on the World Hea
 
 | Step                           | Code                                    | Describe                                         |
 |--------------------------------|-----------------------------------------|--------------------------------------------------|
-| Make URLs of pages              | `# Add your code here`                  | Add code to collect URLs of pages                |
+| Make URLs of pages              | `# import numpy as np
+
+# Split the Page_names variable into lines
+page_lines = Page_names.strip().split('\n')
+
+# Create a list to store the URLs
+pages = []
+
+# Iterate over each line and extract information
+for line in page_lines:
+    # Split each line into parts using the underscore character
+    parts = line.split('_')
+    
+    # Extract the topic and create the URL
+    topic = parts[-1].strip()
+    if topic:
+        # Replace spaces with hyphens in the topic
+        topic_with_hyphens = topic.replace(' ', '-')
+        url = f'https://www.who.int/health-topics/{topic_with_hyphens.lower()}#tab=tab_1'
+        pages.append(url)
+
+# Print the list of URLs
+#for page in pages:
+#    print(page)
+
+
+    
+pages[16] = 'https://www.who.int/health-topics/buruli-ulcer#tab=tab_1'
+pages[20] = 'https://www.who.int/health-topics/chagas-disease#tab=tab_1'
+pages[26] = 'https://www.who.int/health-topics/children-environmental-health#tab=tab_1'
+pages[36] = 'https://www.who.int/health-topics/coronavirus#tab=tab_1'
+pages[48] = 'https://www.who.int/health-topics/dracunculiasis#tab=tab_1'
+pages[51] = 'https://www.who.int/health-topics/drugs2#tab=tab_1'
+#= 'https://www.who.int/health-topics/modified-url-1#tab=tab_1'
+#pages[1] = 'https://www.who.int/health-topics/modified-url-2#tab=tab_1'
+print(np.shape(pages),pages)`                  | Add code to collect URLs of pages                |
 | Clean text of pages             | `# Add your code here`                  | Implement text cleaning for collected pages     |
 | Make all text                   | `# Add your code here`                  | Combine cleaned text into a single corpus        |
 | TF-IDF on all text              | `# Add your code here`                  | Apply TF-IDF transformation to the text corpus  |
