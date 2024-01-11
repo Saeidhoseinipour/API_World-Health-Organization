@@ -2,6 +2,18 @@
 ## **Overview**
 This script allows you to extract text data from specific pages on the World Health Organization (WHO) website, clean and tokenize the text, and create a matrix representing the occurrence of words across different pages.
 
+
+| Step                           | Code                                    | Describe                                         |
+|--------------------------------|-----------------------------------------|--------------------------------------------------|
+| Make URLs of pages              | `# Add your code here`                  | Add code to collect URLs of pages                |
+| Clean text of pages             | `# Add your code here`                  | Implement text cleaning for collected pages     |
+| Make all text                   | `# Add your code here`                  | Combine cleaned text into a single corpus        |
+| TF-IDF on all text              | `# Add your code here`                  | Apply TF-IDF transformation to the text corpus  |
+| Make page-word matrix           | `# Add your code here`                  | Create a matrix representing pages and words    |
+| Visualizations                 | `# Add your code here`                  | Generate visualizations for analysis            |
+| Implement model co-clustering   | `# Add your code here`                  | Apply co-clustering algorithm to the data       |
+
+
 Steps
 1. Define URLs: Edit the list of URLs in the script to specify the WHO website pages you want to analyze.
 ```python
