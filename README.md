@@ -202,52 +202,7 @@ Communicable diseases_Yellow fever
 Other_Zika virus disease
 """
 ```
-| No. | Topic                                                | URL                                                                                      |
-|-----|------------------------------------------------------|------------------------------------------------------------------------------------------|
-| 1   | Abortion                                             | [https://www.who.int/health-topics/abortion#tab=tab_1](https://www.who.int/health-topics/abortion#tab=tab_1)                                   |
-| 2   | Addictive Behaviour                                   | [https://www.who.int/health-topics/addictive-behaviour#tab=tab_1](https://www.who.int/health-topics/addictive-behaviour#tab=tab_1)           |
-| 3   | Adolescent Health                                     | [https://www.who.int/health-topics/adolescent-health#tab=tab_1](https://www.who.int/health-topics/adolescent-health#tab=tab_1)             |
-| 4   | Ageing                                               | [https://www.who.int/health-topics/ageing#tab=tab_1](https://www.who.int/health-topics/ageing#tab=tab_1)                                   |
-| 5   | Ageism                                               | [https://www.who.int/health-topics/ageism#tab=tab_1](https://www.who.int/health-topics/ageism#tab=tab_1)                                   |
-| 6   | Air Pollution                                        | [https://www.who.int/health-topics/air-pollution#tab=tab_1](https://www.who.int/health-topics/air-pollution#tab=tab_1)                     |
-| 7   | Alcohol                                              | [https://www.who.int/health-topics/alcohol#tab=tab_1](https://www.who.int/health-topics/alcohol#tab=tab_1)                                 |
-| 8   | Anaemia                                              | [https://www.who.int/health-topics/anaemia#tab=tab_1](https://www.who.int/health-topics/anaemia#tab=tab_1)                                 |
-| 9   | Antimicrobial Resistance                              | [https://www.who.int/health-topics/antimicrobial-resistance#tab=tab_1](https://www.who.int/health-topics/antimicrobial-resistance#tab=tab_1) |
-| 10  | Assistive Technology                                  | [https://www.who.int/health-topics/assistive-technology#tab=tab_1](https://www.who.int/health-topics/assistive-technology#tab=tab_1)         |
-| 11  | Biological Weapons                                    | [https://www.who.int/health-topics/biological-weapons#tab=tab_1](https://www.who.int/health-topics/biological-weapons#tab=tab_1)           |
-| 12  | Biologicals                                           | [https://www.who.int/health-topics/biologicals#tab=tab_1](https://www.who.int/health-topics/biologicals#tab=tab_1)                         |
-| 13  | Blood Products                                        | [https://www.who.int/health-topics/blood-products#tab=tab_1](https://www.who.int/health-topics/blood-products#tab=tab_1)                   |
-| 14  | Blood Transfusion Safety                               | [https://www.who.int/health-topics/blood-transfusion-safety#tab=tab_1](https://www.who.int/health-topics/blood-transfusion-safety#tab=tab_1) |
-| 15  | Brain Health                                          | [https://www.who.int/health-topics/brain-health#tab=tab_1](https://www.who.int/health-topics/brain-health#tab=tab_1)                       |
-| 16  | Breastfeeding                                         | [https://www.who.int/health-topics/breastfeeding#tab=tab_1](https://www.who.int/health-topics/breastfeeding#tab=tab_1)                     |
-| 17  | Buruli Ulcer                                          | [https://www.who.int/health-topics/buruli-ulcer#tab=tab_1](https://www.who.int/health-topics/buruli-ulcer#tab=tab_1)                       |
-| 18  | Cancer                                               | [https://www.who.int/health-topics/cancer#tab=tab_1](https://www.who.int/health-topics/cancer#tab=tab_1)                                   |
-| 19  | Cardiovascular Diseases                               | [https://www.who.int/health-topics/cardiovascular-diseases#tab=tab_1](https://www.who.int/health-topics/cardiovascular-diseases#tab=tab_1) |
-| 20  | Cervical Cancer                                       | [https://www.who.int/health-topics/cervical-cancer#tab=tab_1](https://www.who.int/health-topics/cervical-cancer#tab=tab_1)                 |
-| 21  | Chagas Disease                                        | [https://www.who.int/health-topics/chagas-disease#tab=tab_1](https://www.who.int/health-topics/chagas-disease#tab=tab_1)                   |
-| 22  | Chemical Incidents                                     | [https://www.who.int/health-topics/chemical-incidents#tab=tab_1](https://www.who.int/health-topics/chemical-incidents#tab=tab_1)             |
-| 23  | Chemical Safety                                       | [https://www.who.int/health-topics/chemical-safety#tab=tab_1](https://www.who.int/health-topics/chemical-safety#tab=tab_1)                 |
-| 24  | Chikungunya                                           | [https://www.who.int/health-topics/chikungunya#tab=tab_1](https://www.who.int/health-topics/chikungunya#tab=tab_1)                         |
-| 25  | Child Growth                                          | [https://www.who.int/health-topics/child-growth#tab=tab_1](https://www.who.int/health-topics/child-growth#tab=tab_1)                       |
-| 26  | Child Health                                          | [https://www.who.int/health-topics/child-health#tab=tab_1](https://www.who.int/health-topics/child-health#tab=tab_1)                       |
-| 27  | Children Environmental Health                          | [https://www.who.int/health-topics/children-environmental-health#tab=tab_1](https://www.who.int/health-topics/children-environmental-health#tab=tab_1) |
-| 28  | Cholera                                              | [https://www.who.int/health-topics/cholera#tab=tab_1](https://www.who.int/health-topics/cholera#tab=tab_1)                                   |
-| 29  | Chronic Respiratory Diseases                           | [https://www.who.int/health-topics/chronic-respiratory-diseases#tab=tab_1](https://www.who.int/health-topics/chronic-respiratory-diseases#tab=tab_1) |
-| 30  | Climate Change                                         | [https://www.who.int/health-topics/climate-change#tab=tab_1](https:|
-| 31  | Climate Change                                         | [https://www.who.int/health-topics/climate-change#tab=tab_1](https://www.who.int/health-topics/climate-change#tab=tab_1)                   |
-This table includes 31 rows. If you need any further adjustments, feel free to let me know!
 
-
-
-
-User
-plase add all urls 
-ChatGPT
-!
-Certainly! Here is the updated Markdown table with all the provided URLs and corresponding topics:
-
-markdown
-Copy code
 | No. | Topic                                                | URL                                                                                                                                       |
 |-----|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Abortion                                             | [https://www.who.int/health-topics/abortion#tab=tab_1](https://www.who.int/health-topics/abortion#tab=tab_1)                                |
