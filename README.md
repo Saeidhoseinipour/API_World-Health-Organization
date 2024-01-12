@@ -634,6 +634,6 @@ plt.show()
 
 ```
 
-![World Health Organization Word Cloud](https://github.com/Saeidhoseinipour/API_World-Health-Organization/raw/main/Images/wordcloud_clean_texts.png)
+<img src="https://github.com/Saeidhoseinipour/API_World-Health-Organization/raw/main/Images/wordcloud_clean_texts.png" alt="World Health Organization Word Cloud" width="400" height="300" title="WHO Word Cloud" style="border: 1px solid #ddd;">
 
 *Caption: This word cloud visualizes clean texts related to the World Health Organization (WHO).*
