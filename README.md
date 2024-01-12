@@ -633,3 +633,7 @@ plt.tight_layout(pad=0)
 plt.show()
 
 ```
+
+![World Health Organization Word Cloud](https://github.com/Saeidhoseinipour/API_World-Health-Organization/raw/main/Images/wordcloud_clean_texts.png)
+
+*Caption: This word cloud visualizes clean texts related to the World Health Organization (WHO).*
